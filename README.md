@@ -1,3 +1,3 @@
 # Data_Analytics_Aplicado_a_Tienda_de_Bicis
 
-Proyecto de análisis de los datos de un Tienda de Bicis australiana respecto al perfil del cliente y los canales de venta
+Proyecto de análisis de los datos de un Tienda de Bicis australiana respecto al precio de venta y el costo del producto para establecer una estrategia de venta y comenzar con un análisis exploratorio para obtner insights futuros respecto al perfil del cliente 
